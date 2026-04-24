@@ -199,6 +199,9 @@
   .mt-49 {
     margin-top: calc(var(--spacing) * 49);
   }
+  .mt-50 {
+    margin-top: calc(var(--spacing) * 50);
+  }
   .ml-3 {
     margin-left: calc(var(--spacing) * 3);
   }
