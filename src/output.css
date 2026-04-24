@@ -310,6 +310,9 @@
   .gap-1 {
     gap: calc(var(--spacing) * 1);
   }
+  .gap-2 {
+    gap: calc(var(--spacing) * 2);
+  }
   .gap-5 {
     gap: calc(var(--spacing) * 5);
   }
@@ -321,6 +324,9 @@
   }
   .gap-15 {
     gap: calc(var(--spacing) * 15);
+  }
+  .gap-19 {
+    gap: calc(var(--spacing) * 19);
   }
   .gap-20 {
     gap: calc(var(--spacing) * 20);
