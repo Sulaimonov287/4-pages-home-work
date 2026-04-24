@@ -166,6 +166,9 @@
   .m-auto {
     margin: auto;
   }
+  .my-20 {
+    margin-block: calc(var(--spacing) * 20);
+  }
   .mt-7 {
     margin-top: calc(var(--spacing) * 7);
   }
@@ -195,6 +198,9 @@
   }
   .mt-49 {
     margin-top: calc(var(--spacing) * 49);
+  }
+  .mt-50 {
+    margin-top: calc(var(--spacing) * 50);
   }
   .ml-3 {
     margin-left: calc(var(--spacing) * 3);
@@ -307,6 +313,9 @@
   .gap-1 {
     gap: calc(var(--spacing) * 1);
   }
+  .gap-2 {
+    gap: calc(var(--spacing) * 2);
+  }
   .gap-5 {
     gap: calc(var(--spacing) * 5);
   }
@@ -318,6 +327,12 @@
   }
   .gap-15 {
     gap: calc(var(--spacing) * 15);
+  }
+  .gap-19 {
+    gap: calc(var(--spacing) * 19);
+  }
+  .gap-20 {
+    gap: calc(var(--spacing) * 20);
   }
   .gap-25 {
     gap: calc(var(--spacing) * 25);
