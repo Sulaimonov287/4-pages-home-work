@@ -166,6 +166,9 @@
   .m-auto {
     margin: auto;
   }
+  .my-20 {
+    margin-block: calc(var(--spacing) * 20);
+  }
   .mt-7 {
     margin-top: calc(var(--spacing) * 7);
   }
@@ -318,6 +321,9 @@
   }
   .gap-15 {
     gap: calc(var(--spacing) * 15);
+  }
+  .gap-20 {
+    gap: calc(var(--spacing) * 20);
   }
   .gap-25 {
     gap: calc(var(--spacing) * 25);
